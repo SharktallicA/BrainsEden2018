@@ -3,7 +3,7 @@ University of South Wales' submission for 2018 Brains Eden Gaming Festival! Fist
 # Team
 * Jack Smerdon (@JackSmerdon)
 * Jake Passmore (@JakeP121)
-* Nicky Jones
+* Nicky Jones (@14016036)
 * Khalid Ali (@SharktallicA)
 * Steven Sparkes (@CometGoat)
 # Dev tools
